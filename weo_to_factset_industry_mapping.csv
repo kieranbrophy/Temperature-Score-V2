@@ -1,0 +1,134 @@
+﻿economic_sector,industry,iea_sector
+Commercial Services,Advertising/Marketing Services,Services buildings
+Commercial Services,Financial Publishing/Services,Services buildings
+Commercial Services,Commercial Printing/Forms,Services buildings
+Commercial Services,Personnel Services,Services buildings
+Commercial Services,Miscellaneous Commercial Services,Services buildings
+Communications,Specialty Telecommunications,Services buildings
+Communications,Wireless Telecommunications,Services buildings
+Communications,Major Telecommunications,Services buildings
+Consumer Durables,Tools & Hardware,Industry
+Consumer Durables,Recreational Products,Industry
+Consumer Durables,Homebuilding,Industry
+Consumer Durables,Other Consumer Specialties,Industry
+Consumer Durables,Home Furnishings,Industry
+Consumer Durables,Automotive Aftermarket,Industry
+Consumer Durables,Motor Vehicles,Industry
+Consumer Durables,Electronics/Appliances,Industry
+Consumer Non-Durables,Beverages: Non-Alcoholic,Industry
+Consumer Non-Durables,Beverages: Alcoholic,Industry
+Consumer Non-Durables,Food: Specialty/Candy,Industry
+Consumer Non-Durables,Consumer Sundries,Industry
+Consumer Non-Durables,Household/Personal Care,Industry
+Consumer Non-Durables,Food: Meat/Fish/Dairy,Industry
+Consumer Non-Durables,Food: Major Diversified,Industry
+Consumer Non-Durables,Tobacco,Industry
+Consumer Non-Durables,Apparel/Footwear,Industry
+Consumer Services,Media Conglomerates,Services buildings
+Consumer Services,Hotels/Resorts/Cruise lines,Services buildings
+Consumer Services,Casinos/Gaming,Services buildings
+Consumer Services,Publishing: Books/Magazines,Services buildings
+Consumer Services,Movies/Entertainment,Services buildings
+Consumer Services,Publishing: Newspapers,Services buildings
+Consumer Services,Broadcasting,Services buildings
+Consumer Services,Other Consumer Services,Services buildings
+Consumer Services,Restaurants,Services buildings
+Consumer Services,Hotels/Resorts/Cruiselines,Services buildings
+Consumer Services,Cable/Satellite TV,Services buildings
+Distribution Services,Electronics Distributors,Services buildings
+Distribution Services,Wholesale Distributors,Services buildings
+Distribution Services,Medical Distributors,Services buildings
+Distribution Services,Food Distributors,Services buildings
+Electronic Technology,Semiconductors,Industry
+Electronic Technology,Computer Peripherals,Industry
+Electronic Technology,Electronic Components,Industry
+Electronic Technology,Electronic Equipment/Instruments,Industry
+Electronic Technology,Electronic Production Equipment,Industry
+Electronic Technology,Computer Communications,Industry
+Electronic Technology,Telecommunications Equipment,Industry
+Electronic Technology,Computer Processing Hardware,Industry
+Electronic Technology,Aerospace & Defense,Industry
+Energy Minerals,Integrated Oil,Oil
+Energy Minerals,Oil Refining/Marketing,Oil
+Energy Minerals,Oil & Gas Production,Oil and gas
+Energy Minerals,Coal,Coal
+Finance,Savings Banks,Services buildings
+Finance,Property/Casualty Insurance,Services buildings
+Finance,Specialty Insurance,Services buildings
+Finance,Life/Health Insurance,Services buildings
+Finance,Insurance Brokers/Services,Services buildings
+Finance,Investment Managers,Services buildings
+Finance,Finance/Rental/Leasing,Services buildings
+Finance,Real Estate Investment Trusts,Services buildings
+Finance,Real Estate Development,Services buildings
+Finance,Major Banks,Services buildings
+Finance,Multi-Line Insurance,Services buildings
+Finance,Financial Conglomerates,Services buildings
+Finance,Regional Banks,Services buildings
+Finance,Investment Banks/Brokers,Services buildings
+Government,Supranational,Services buildings
+Government,General Government,Services buildings
+Government,Sovereign,Services buildings
+Health Services,Medical/Nursing Services,Services buildings
+Health Services,Hospital/Nursing Management,Services buildings
+Health Services,Services to the Health Industry,Services buildings
+Health Services,Managed Health Care,Services buildings
+Health Technology,Pharmaceuticals: Generic,Industry
+Health Technology,Pharmaceuticals: Other,Industry
+Health Technology,Biotechnology,Industry
+Health Technology,Medical Specialties,Industry
+Health Technology,Pharmaceuticals: Major,Industry
+Industrial Services,Engineering & Construction,Industry
+Industrial Services,Contract Drilling,Oil and gas
+Industrial Services,Oilfield Services/Equipment,Oil and gas
+Industrial Services,Environmental Services,Services buildings
+Industrial Services,Oil & Gas Pipelines,Oil and gas
+Miscellaneous,Investment Trusts/Mutual Funds,Services buildings
+Miscellaneous,Miscellaneous,Miscellaneous
+Non-Energy Minerals,Aluminum,Industry
+Non-Energy Minerals,Construction Materials,Industry
+Non-Energy Minerals,Precious Metals,Industry
+Non-Energy Minerals,Steel,Iron and steel
+Non-Energy Minerals,Forest Products,Services buildings
+Non-Energy Minerals,Other Metals/Minerals,Industry
+Process Industries,Agricultural Commodities/Milling,Industry
+Process Industries,Chemicals: Specialty,Chemicals
+Process Industries,Chemicals: Major Diversified,Chemicals
+Process Industries,Textiles,Industry
+Process Industries,Industrial Specialties,Industry
+Process Industries,Pulp & Paper,Industry
+Process Industries,Chemicals: Agricultural,Chemicals
+Process Industries,Containers/Packaging,Industry
+Producer Manufacturing,Industrial Conglomerates,Industry
+Producer Manufacturing,Office Equipment/Supplies,Industry
+Producer Manufacturing,Industrial Machinery,Industry
+Producer Manufacturing,Miscellaneous Manufacturing,Industry
+Producer Manufacturing,Metal Fabrication,Industry
+Producer Manufacturing,Trucks/Construction/Farm Machinery,Trucking transport
+Producer Manufacturing,Auto Parts: OEM,Industry
+Producer Manufacturing,Electrical Products,Industry
+Producer Manufacturing,Building Products,Industry
+Retail Trade,Discount Stores,Services buildings
+Retail Trade,Internet Retail,Services buildings
+Retail Trade,Department Stores,Services buildings
+Retail Trade,Electronics/Appliance Stores,Services buildings
+Retail Trade,Food Retail,Services buildings
+Retail Trade,Catalog/Specialty Distribution,Services buildings
+Retail Trade,Drugstore Chains,Services buildings
+Retail Trade,Apparel/Footwear Retail,Services buildings
+Retail Trade,Specialty Stores,Services buildings
+Retail Trade,Home Improvement Chains,Services buildings
+Technology Services,Packaged Software,Services buildings
+Technology Services,Data Processing Services,Services buildings
+Technology Services,Information Technology Services,Services buildings
+Technology Services,Internet Software/Services,Services buildings
+Transportation,Trucking,Trucking transport
+Transportation,Marine Shipping,Shipping transport
+Transportation,Railroads,Other transport
+Transportation,Airlines,Aviation transport
+Transportation,Other Transportation,Other transport
+Transportation,Air Freight/Couriers,Aviation transport
+Utilities,Water Utilities,Services buildings
+Utilities,Gas Distributors,Gas
+Utilities,Electric Utilities,Utilities
+Utilities,Alternative Power Generation,Utilities
